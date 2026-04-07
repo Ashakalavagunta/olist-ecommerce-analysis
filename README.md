@@ -7,53 +7,59 @@ The goal was to identify key growth opportunities, uncover business risks, and p
 
 ---
 
-## Dataset
-- Source: Olist Brazilian E-Commerce Dataset (Kaggle)
-- Time Period: 2016 – 2018
-- Records Analyzed: 96,000+ orders
-- Data Type: Multi-table relational dataset (orders, customers, products, payments, reviews)
+## Dashboard Preview
+
+### Executive Overview
+<img width="955" height="427" alt="image" src="https://github.com/user-attachments/assets/bb47a435-3ac4-4efe-8719-cb5067634b5d" />
+
+
+### KPI Performance
+![KPI Dashboard](screenshot2.png)
+
+### Key Insights
+![Insights](screenshot3.png)
 
 ---
 
 ## Key Business Insights
 
--  **97% of customers are one-time buyers** → major retention gap  
--  **141% YoY revenue growth**, but signs of plateau in later months  
--  **Late deliveries reduce customer satisfaction by ~40%**  
--  **Top categories drive revenue but vary in satisfaction**  
--  **Revenue highly concentrated in São Paulo (38%)** → geographic risk  
+- 97% of customers are one-time buyers → major retention gap  
+- 141% YoY revenue growth with signs of plateau  
+- Late deliveries reduce customer satisfaction significantly  
+- Top categories drive revenue but vary in satisfaction  
+- Revenue concentrated in few regions → expansion opportunity  
 
 ---
 
-##  Business Recommendations
+## Business Recommendations
 
-- Improve customer retention through targeted re-engagement strategies  
+- Improve customer retention through re-engagement strategies  
 - Optimize logistics to reduce late deliveries  
-- Introduce free shipping thresholds to increase average order value  
-- Expand into underperforming regions with growth potential  
+- Introduce free shipping thresholds to increase AOV  
+- Expand into underperforming regions  
 - Leverage seasonal trends (e.g., Black Friday spikes)  
 
 ---
 
-##  Dashboard Features
+## Dashboard Features
 
 - KPI tracking (Revenue, Orders, AOV, Retention)  
-- Sales trend analysis (monthly, category-wise)  
-- Customer behavior insights  
-- Product performance breakdown  
-- Executive-level summary with strategic recommendations  
+- Revenue trends (monthly & category-wise)  
+- Customer behavior analysis  
+- Product performance insights  
+- Executive-level summary  
 
 ---
 
-##  Data Modeling
+## Data Modeling
 
-- Designed a **Star Schema** for efficient analysis:
+- Designed a Star Schema:
   - Fact Table: Orders  
   - Dimension Tables: Customers, Products, Sellers, Date, Payments  
 
 ---
 
-##  Tools & Technologies
+## Tools & Technologies
 
 - Power BI  
 - DAX  
@@ -63,9 +69,9 @@ The goal was to identify key growth opportunities, uncover business risks, and p
 
 ---
 
-##  Live Project
+## Live Project
 
-👉 [View Dashboard](https://ashakalavagunta.github.io/olist-ecommerce-analysis/)
+👉 https://ashakalavagunta.github.io/olist-ecommerce-analysis/
 
 ---
 
@@ -78,4 +84,4 @@ Data Analyst
 
 ## Key Takeaway
 
-This project demonstrates how data analysis can move beyond reporting to deliver **strategic business value**, enabling organizations to make informed decisions that drive growth and efficiency.
+This project demonstrates how data analysis can deliver strategic business value by identifying growth opportunities, improving efficiency, and enabling data-driven decision-making.
