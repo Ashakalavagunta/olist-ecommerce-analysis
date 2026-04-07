@@ -18,7 +18,8 @@ The goal was to identify key growth opportunities, uncover business risks, and p
 
 
 ### Key Insights
-<img width="904" height="433" alt="image" src="https://github.com/user-attachments/assets/9347c4ab-4038-4dbf-a351-c008c12b70c3" />
+<img width="872" height="419" alt="image" src="https://github.com/user-attachments/assets/833176a9-a441-40e1-ba5d-803656495c68" />
+
 
 ---
 
