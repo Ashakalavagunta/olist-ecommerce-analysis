@@ -14,8 +14,8 @@ The goal was to identify key growth opportunities, uncover business risks, and p
 
 
 ### KPI Performance
-![KPI Dashboard](<img width="937" height="431" alt="image" src="https://github.com/user-attachments/assets/cb2e4808-6ef1-484b-85bf-a2c71b88257f" />
-)
+<img width="937" height="431" alt="image" src="https://github.com/user-attachments/assets/0ba8ecf8-5b9c-4e11-af53-558509757a6d" />
+
 
 ### Key Insights
 ![Insights](screenshot3.png)
